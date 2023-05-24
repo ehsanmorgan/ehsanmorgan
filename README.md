@@ -1,6 +1,6 @@
 
 
-[![MasterHead](https://i.wfcdn.de/teaser/1920/38877.jpg)
+![MasterHead](https://i.wfcdn.de/teaser/1920/38877.jpg)
 <h1 align="center">Hi 👋, I'm EHSAN MORGAN</h1>
 <h3 align="center"> Python Developer</h3>
 <img align="right" alt="coding" width="175"  src="https://cdn1.vogel.de/unsafe/800x0/smart/images.vogel.de/vogelonline/bdb/1760100/1760145/original.jpg">
